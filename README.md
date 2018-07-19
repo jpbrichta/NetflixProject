@@ -1,7 +1,10 @@
 # NetflixProject
-# by JP Brichta
-# 2018-07-19
-# DVP-Jul-10-2018 Cohort
+
+by JP Brichta
+
+2018-07-19
+
+DVP-Jul-10-2018 Cohort
 
 A project submitted to complete Codecademy Pro course on Data Visualization with Python. This project was completed by me without external assistance. Included in this repo:
 
