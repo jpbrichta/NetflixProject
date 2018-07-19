@@ -8,8 +8,6 @@ DVP-Jul-10-2018 Cohort
 
 A project submitted to complete Codecademy Pro course on Data Visualization with Python. This project was completed by me without external assistance. Included in this repo:
 
-1. Completed slide deck in PDF format
+1. Netflix.zip which contains: completed slide deck in PDF format and Python file
 
-2. Project Rubric
-
-3. Data files (.csv), Python file (.py), Jupyter Notebook file (.ipynb), and completed visualizations (.png)
+2. Folder containing all files from project including: Data files (.csv), Python file (.py), Jupyter Notebook file (.ipynb), completed visualizations (.png), project rubric and completed capstone
